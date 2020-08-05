@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Satyajeet Desale",
+    "occupation":"Software Engineer | Leader | Father | Amateur Photographer | Geek",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Software Development Manager with 9 years' experience in full stack product development. Passion for building innovative industry leading products. I love learning new things. ",
+    "contactmessage":"I like talking about technology. I'd love to hear from you.",
+    "email": "satyajeet.desale@outlook.com",
+    "phone": "8088340488",
+    "address":{
+      "city":"Bangalore",
+      "state":"KA, India"
+    },
+    "website": "http://www.satyajeetdesale.com",
+    "resumedownload":"http://satyajeetdesale.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://in.linkedin.com/in/satyajeetdesale/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/satyajeetnd",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Syracuse University",
+        "degree":"MS in Computer Engineering",
+        "graduated":"May 2012",
+        "description":"Syracuse, NY, USA"
+      },
+      {
+        "school":"Savitribai Phule Pune University",
+        "degree":"BE in Computer Engineering",
+        "graduated":"June 2009",
+        "description":"Pune, MH, India"
+      }
+    ],
+    "work":[
+      {
+        "company":"Cerner Corporation",
+        "title":"Senior Engineering Manager",
+        "location":"Bangalore, India",
+        "years":"August 2012 - Present",
+        "description":"Leading and building web application platform. Proposed and led process improvements which brought down application onboarding time by 70%. Led and built Cerner wide framework to rollout new features for applications. Successfully migrated 600+ clients to new database, received a NOTT award for this achievement. Led and built application quality standards framework for monitoring quality. Ruby on Rails, Java, JavaScript, ReactJS, MySQL, Redis, Docker, Kubernetes, Helm."
+      },
+      {
+        "company":"Blue Highway LLC",
+        "title":"Software Engineer",
+        "years":"May 2011 - May 2012",
+        "description":"Developed iOS and Android applications along with PHP web application."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby on Rails",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"75%"
+      },
+      {
+        "name":"Redis",
+        "level":"75%"
+      },
+      {
+        "name":"Swift",
+        "level":"20%"
+      },
+      {
+        "name":"Objective C",
+        "level":"20%"
+      },
+      {
+        "name":"iOS Development",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
